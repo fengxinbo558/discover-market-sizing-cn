@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国市场规模估算"
+  short_description: "用可复算路径评估 TAM、SAM、SOM 与证据边界"
+  default_prompt: "使用 $discover-market-sizing-cn 估算这个外部市场机会，并根据证据选择快速、完整或受限模式。"
